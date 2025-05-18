@@ -1,31 +1,35 @@
-# Nexspro Frontend – Next.js Interface for Personal Portfolio
+# Nexspro Frontend – Developer Portfolio Interface
 
-This repository contains the frontend code for **Nexspro**, my personal developer platform.  
-It serves as a central hub to showcase my projects, skills, and live content with a modern, responsive UI.
+This is the frontend code for my personal developer platform **Nexspro**.
+
+Built with **Next.js**, **TypeScript**, and **Tailwind CSS**, it serves as a modern and responsive interface to showcase my work, skills, and digital presence.
 
 ## 🌐 Live Website
 
-[https://nexspro.com](https://nexspro.com) *(hosted on VPS OVH)*
+[https://nexspro.com](https://nexspro.com)
 
----
+##  Technologies
 
-##  Tech Stack
-
-- **Next.js 14** (React framework with App Router)
-- **Tailwind CSS** (utility-first UI)
+- **Next.js 14** (App Router)
+- **Tailwind CSS**
 - **TypeScript**
-- Headless rendering with API integration (Rails backend)
-- SEO optimization & performance tuning
-
----
+- API integration with a custom Ruby on Rails backend
 
 ##  Features
 
--  Portfolio section (skills, projects, clients)
--  News & release notes system
--  Live stream & content integration
--  Developer library (tools, docs, videos)
--  Authenticated access (JWT via Rodauth backend)
--  Dark mode / mobile-first design
--  Fully responsive SPA architecture
+- Portfolio with skills, projects, and client highlights
+- News and release notes section
+- Integrated livestream and content showcase
+- Responsive design and smooth UI/UX
+- Authenticated sections (JWT token system via backend)
 
+##  Goal
+
+This project reflects my full-stack skills and frontend experience.  
+It is designed as a long-term personal hub to centralize my developer identity and demonstrate production-ready development.
+
+##  Contact
+
+- [LinkedIn](https://www.linkedin.com/in/nexspro)  
+- [GitHub](https://github.com/nexspro)  
+- Email: nexspro@ik.me
