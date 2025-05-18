@@ -4,10 +4,6 @@ This is the frontend code for my personal developer platform **Nexspro**.
 
 Built with **Next.js**, **TypeScript**, and **Tailwind CSS**, it serves as a modern and responsive interface to showcase my work, skills, and digital presence.
 
-## 🌐 Live Website
-
-[https://nexspro.com](https://nexspro.com)
-
 ##  Technologies
 
 - **Next.js 14** (App Router)
