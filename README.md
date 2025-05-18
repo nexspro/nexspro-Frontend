@@ -27,5 +27,5 @@ It serves as a central hub to showcase my projects, skills, and live content wit
 -  Developer library (tools, docs, videos)
 -  Authenticated access (JWT via Rodauth backend)
 -  Dark mode / mobile-first design
-- ⚙ Fully responsive SPA architecture
+-  Fully responsive SPA architecture
 
