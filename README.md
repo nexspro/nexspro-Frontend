@@ -1,23 +1,31 @@
-# Nexspro Frontend
+# Nexspro Frontend – Next.js Interface for Personal Portfolio
 
-Interface utilisateur du projet **Nexspro**, une plateforme personnelle regroupant portfolio, projets, livestreams et bibliothèque technique.  
-Développée avec **Next.js 14**, **TypeScript** et **Tailwind CSS**, cette application offre une expérience utilisateur moderne et réactive.
+This repository contains the frontend code for **Nexspro**, my personal developer platform.  
+It serves as a central hub to showcase my projects, skills, and live content with a modern, responsive UI.
 
-## Fonctionnalités principales
+## 🌐 Live Website
 
-- Interface responsive construite avec **Next.js App Router** et **Tailwind CSS**
-- Authentification sécurisée via **Rodauth** (JWT) côté backend
-- Pages dynamiques pour le portfolio, les projets, les flux en direct et la bibliothèque
-- Optimisation SEO avec balises méta dynamiques et sitemap
-- Déploiement sur **OVH VPS** avec **Nginx** et **Puma**
+[https://nexspro.com](https://nexspro.com) *(hosted on VPS OVH)*
 
-##  Stack technique
+---
 
-- **Framework** : Next.js 14 (App Router)
-- **Langage** : TypeScript
-- **Styling** : Tailwind CSS
-- **Backend API** : Ruby on Rails (voir [backend](https://github.com/nexspro/nexspro-Backend))
-- **Authentification** : Rodauth + JWT
-- **Déploiement** : OVH VPS, Nginx, Puma
+##  Tech Stack
 
+- **Next.js 14** (React framework with App Router)
+- **Tailwind CSS** (utility-first UI)
+- **TypeScript**
+- Headless rendering with API integration (Rails backend)
+- SEO optimization & performance tuning
+
+---
+
+##  Features
+
+-  Portfolio section (skills, projects, clients)
+-  News & release notes system
+-  Live stream & content integration
+-  Developer library (tools, docs, videos)
+-  Authenticated access (JWT via Rodauth backend)
+-  Dark mode / mobile-first design
+- ⚙ Fully responsive SPA architecture
 
